@@ -6,4 +6,4 @@
 PAGINA ACTIVA EN EL SIGUIEN ENLACE=https://instituto58mgd.blogspot.com/
 
 
-![pagina web interfaz](/ISDyF58_files/pagi58.png)
+![pagina web interfaz](ISDyF58_files/pagi58.png)
