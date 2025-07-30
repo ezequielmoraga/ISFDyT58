@@ -4,3 +4,6 @@
 
 
 PAGINA ACTIVA EN EL SIGUIEN ENLACE=https://instituto58mgd.blogspot.com/
+
+
+![Descripción alternativa de la imagen](images/logo.png)
