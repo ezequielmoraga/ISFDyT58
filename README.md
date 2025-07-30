@@ -9,7 +9,7 @@
 ###PAGINA ACTIVA EN EL SIGUIEN ENLACE=https://instituto58mgd.blogspot.com/
 
 
-![Captura de la página 58](Mi%20poyecto/ISDyF58_files/pagi58.png)
+![pagina activa ](Mi%20poyecto/ISDyF58_files/pagi58.png)
 
 
 
